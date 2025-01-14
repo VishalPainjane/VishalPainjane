@@ -1,8 +1,11 @@
-# 💫 About Me:
-A passionate AI/ML developer, developing crazzy things<br><br>🔭 I’m currently working on RAG implementation<br>👯 I’m looking to collaborate on Generative AI through Multi-Model LLM's<br>🌱 I’m currently exploring Deep Learning, Gen-AI and Agentic AI
+# 💫 Hey, I'm Vishal
+<br/>
 
+### 📌 About Me:
+🌟 A passionate AI/ML developer, developing crazy things
+<br>👨🏽‍💻 Core Member of Bitbyte, The Programming Club of IIIT Jabalpur<br>👨🏽‍💻 Currently pursuing BTech. CSE at IIIT Jabalpur<br>🔭 I’m currently working on RAG and transformer architecture for task featuring<br>👯 I’m looking to collaborate on Generative AI through Multi-Model LLM's<br>🌱 I’m currently exploring Gen-AI, and Agentic AI<br>💡 I'm currently researching in generative AI
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vishalpainjane) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/timeplzz) 
 
 # 💻 Tech Stack:
